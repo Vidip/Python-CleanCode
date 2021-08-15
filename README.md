@@ -1,5 +1,5 @@
 # Python-CleanCode
-Python Code Displaying Clean Code and SOLID Principles
+Python Code Displaying Clean Code and SOLID Principles generally used in day to day python programming.
 
 Python Main Object Oriented Concepts can be seen in file cafelocation.py <br/>
 
