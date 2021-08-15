@@ -5,7 +5,7 @@ Python Main Object Oriented Concepts can be seen in file cafelocation.py <br/>
 
 It can be run using following command, it would need a food item input as your favourite food item and it will find the closed match of the cafe where it is avialable, using a fake API call
 
-python3 cafelocation.py --food_item="pizza"
+<h3>python3 cafelocation.py --food_item="pizza"</h3>
 
 Fake JSON server can be started by following command:
 
