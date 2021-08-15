@@ -1,0 +1,31 @@
+{
+  "desserts": [
+    {
+      "id": "971fa4d3-816c-47bb-8635-aa56b7cee8d4",
+      "name": "Pub and Grill",
+      "famous": "Burgers",
+      "location": {
+        "province": "Nova Scotia",
+        "city": "Halifax"
+      }
+    },
+    {
+      "id": "r1a2c3b4n",
+      "name": "Pizza and Chips Pub",
+      "famous": "pizza",
+      "location": {
+        "latitute": "Nova Scotia",
+        "city": "Halifax"
+      }
+    },
+    {
+      "id": "ac7016b6-1598-4f4e-b615-594d1f7f758b",
+      "name": "Cafe Chicken Mix",
+      "famous": "Grilled Chicken and pizza",
+      "location": {
+        "latitute": "Nova Scotia",
+        "city": "Halifax"
+      }
+    }
+  ]
+}
