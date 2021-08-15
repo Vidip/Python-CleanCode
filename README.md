@@ -20,6 +20,7 @@ Concepts Covered: <br/>
 5. Method Resolution Order (MRO) <br/>
 6. Abstraction and Polymorphism <br/>
 7. Generators <br/>
+8. PEP <br/>
 
 Python Singleton Class details are here in article written by me:
 
