@@ -7,6 +7,11 @@ It can be run using following command, it would need a food item input as your f
 
 python3 cafelocation.py --food_item="pizza"
 
+Fake JSON server can be started by following command:
+
+npm install <br/>
+npm start <br/>
+
 Concepts Covered: <br/>
 1. Classes and Instance Creation <br/>
 2. Class Method <br/>
